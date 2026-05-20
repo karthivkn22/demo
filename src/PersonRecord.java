@@ -5,7 +5,7 @@ public class PersonRecord {
         Object obj= new Person("Karthikeyan", 25);
         System.out.println(obj);
             if (obj instanceof Person(String name, int age)) {
-                System.out.println(name + " is " + age);
+                System.out.println(name  + " is " + age);
             }
 
 
